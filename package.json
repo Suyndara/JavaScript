@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "progressismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
